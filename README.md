@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=220&section=header&text=Егор2000&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Java%20Developer%20|%20IT%20Support%20Engineer%20|%20Linux%20Application%20Developer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,50:2563EB,100:06B6D4&height=260&section=header&text=Egor2000&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Java%20Developer%20|%20IT%20Support%20Engineer%20|%20Linux%20Application%20Developer&descAlignY=60&fontAlignY=35"/>
 </div>
 
 <h1 align="center">👋 Привет! Я Егор</h1>
@@ -107,6 +107,10 @@ Java-разработчик • IT Support Engineer • Linux-энтузиаст
 📧 **egor.d10@yandex.ru**
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Egor2000&style=for-the-badge&color=2563EB"/>
+</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
